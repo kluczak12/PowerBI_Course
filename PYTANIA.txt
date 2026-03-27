@@ -1,0 +1,8 @@
+- jak wyeksportować raport do postaci, którą zobaczy user
+- czy ograniczenie bez Unknown można zrobić przy pomocy filtra
+- czy usuwamy kolumny pomocnicze
+- count a countrows przy zliczaniu filmów
+- niedziałające sortowanie malejąco
+- blokada sortowania na tabeli
+- wizualizacja dla zysku i zysku z inflacją względem lat
+- ikonka menu z podpisem overview?
