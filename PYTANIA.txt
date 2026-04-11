@@ -1,0 +1,6 @@
+Pytania:
+1. czy jeden punkt z wymagań = jedna wizualizacja?
+2. czy w 1 wymaganiu można zrobić wizualizacje liczb turniejów rozegranych/wszystkich i card z wartością ilorazu?
+3. jak powinna wyglądać wizualizacja związana z miesięczną osią czasu?
+4. czy legenda może być slicerem?
+5. o co chodzi z najeżdżaniem kursorem z 5 od dołu punktem? (raport powinien wyświetlać informację o nawierzchni, na której rozgrywany jest turniej po najechaniu na niego kursorem)
