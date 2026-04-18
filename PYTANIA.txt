@@ -1,3 +1,5 @@
-1. dodac grupowanie na harmonogramie per nazwa turnieju
-2. zrobić card jako ułamek
-3. zrobić suwaczek do zakresu dat
+Pytania:
+1. Czemu milestone na wizualizacji Gantt ma przesunięcie o ok. 3 dni?
+2. Czy na slicer-ach z Countries i Surface wystarczy zrobić filtr is not blank?
+3. Czy da się jakoś rozszerzyć nazwy turniejów w wizualizacji Gantt, bo domyślnie są one skracane?
+4. Czy w przypadku ułamka rozegranych turniejów do wszystkich, mamy jakoś konkretnie obsługiwać sytuację, gdy obie te wartości wynoszą 0? Powinniśmy wyświetlać 0/0?
